@@ -8,6 +8,9 @@ int main()
    string Latte; 
    string Cappuccino;
    string Espresso;
+   string Hot or Cold?
+   string Sugar or No sugar?
+   string Cream or No cream?
 
    switch (1)
    {
