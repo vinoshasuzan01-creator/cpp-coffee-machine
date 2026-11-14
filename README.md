@@ -8,14 +8,21 @@ int main()
    string Latte; 
    string Cappuccino;
    string Espresso;
-   string Hot or Cold?
-   string Sugar or No sugar?
-   string Cream or No cream?
+   string temperature
+   string sugarlvl
+   string cream
 
    switch (1)
    {
       case 1:
          cout << "You have selected Latte." << endl;
+         cout << "Hot or Cold?" << endl;
+         cin >> temperature
+         cout << "Sugar or No sugar?" << endl;
+         cin >> sugarlvl
+         cout >> "Cream or No cream?" << endl;
+         cin >> cream
+         cout >> "Dispensing your  
          break;
       case 2:
          cout << "You have selected Cappuccino." << endl;
