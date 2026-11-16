@@ -22,7 +22,7 @@ int main()
          cin >> sugarlvl
          cout >> "Cream or No cream?" << endl;
          cin >> cream
-         cout >> "Dispensing your  
+         cout >> "Dispensing your << coffee << 
          break;
       case 2:
          cout << "You have selected Cappuccino." << endl;
