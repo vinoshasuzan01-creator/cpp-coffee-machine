@@ -33,5 +33,6 @@ int main()
       default:
          cout << "Invalid selection." << endl;
    }
-   if Latte
+if Latte
+return 0;
 }
